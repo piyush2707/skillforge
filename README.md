@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="skillforge-hero.png" alt="SkillForge - open-source AI skill creation toolkit" width="100%" />
+  <img src="skillforge-readme-hero.png" alt="SkillForge - open-source AI skill creation toolkit" width="100%" />
   <h1>SkillForge</h1>
   <p><strong>Turn knowledge into reusable AI skills.</strong></p>
   <p>Create, validate, and manage portable <code>SKILL.md</code> packages for AI coding agents.</p>
